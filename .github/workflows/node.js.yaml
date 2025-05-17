@@ -38,3 +38,4 @@ jobs:
       - uses: ncipollo/release-action@v1
         with:
           artifacts: "build.zip"
+          tag: "v0.0.1"
